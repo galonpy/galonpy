@@ -1,6 +1,4 @@
 ### Hi there 👋
-Written Portfolio -- https://medium.com/@gabrielalon257
-
 Machine Learning and Data Science are my passions. I am fascinated by the power of the tools that data scientists have to discover patterns, predict unknowns, persuade audiences, and create positive changes in the world. This career path is exciting because it gets to keep up with the latest advancements in statistics and computer science. I am also motivated by the opportunity to explore new kinds of data and work with talented people.
 
 As a Masters in Applied Data Science from The University of Michigan, I:
@@ -10,6 +8,10 @@ As a Masters in Applied Data Science from The University of Michigan, I:
 * Am highly skilled in data science, machine learning, and A.I tools
 
 * And I am extremely enthusiastic about industry applications!
+
+Written Portfolio -- https://medium.com/@gabrielalon257
+https://www.linkedin.com/in/gabrielalon/
+
 
 
 
