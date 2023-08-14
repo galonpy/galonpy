@@ -5,11 +5,11 @@ Machine Learning and Data Science are my passions. I am fascinated by the power 
 
 As a Masters in Applied Data Science from The University of Michigan, I:
 
--Love Data
+* Love Data
 
--Am highly skilled in data science, machine learning, and A.I tools
+* Am highly skilled in data science, machine learning, and A.I tools
 
--And I am extremely enthusiastic about industry applications!
+* And I am extremely enthusiastic about industry applications!
 
 
 
