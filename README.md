@@ -10,6 +10,7 @@ As a Masters in Applied Data Science from The University of Michigan, I:
 * And I am extremely enthusiastic about industry applications!
 
 Written Portfolio -- https://medium.com/@gabrielalon257
+
 https://www.linkedin.com/in/gabrielalon/
 
 
